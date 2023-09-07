@@ -81,7 +81,7 @@ function orderAlphabetically(moviesArray) {
 //     let durArr = moviesArray.map((movie) => {return movie.duration.split(' ')});
 //     let durA
     
-}
+// }
 
 // BONUS - Iteration 8: Best yearly score average - Best yearly score average
 function bestYearAvg(moviesArray) {}
